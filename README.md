@@ -1,6 +1,6 @@
 ### UIUX TASK
 
-### 📋 **Next Steps: Task List**
+### 📋 **Next Steps: Task List** 
 
 **For UI/UX Designers:**
 1. Design a **Product Details Page** and a **Summary Page** for an e-commerce application. For inspiration, you can reference this [design on Dribbble](https://dribbble.com/shots/24409190-Luxeshop-Ecommerce-Mobile-App). However, we encourage you to bring your unique style and creativity to the designs.
